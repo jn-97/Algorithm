@@ -2,7 +2,7 @@ package D1;
 
 import java.util.Scanner;
 
-public class addOddNumbers_2072 {
+public class Solution_2072 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
