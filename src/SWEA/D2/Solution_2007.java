@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 패턴 마디의 길이
 
 import java.util.Scanner;

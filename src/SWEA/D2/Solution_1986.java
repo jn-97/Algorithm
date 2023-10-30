@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 지그재그 숫자
 
 import java.util.Scanner;

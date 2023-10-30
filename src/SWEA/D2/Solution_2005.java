@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 파스칼의 삼각형
 
 import java.util.Scanner;

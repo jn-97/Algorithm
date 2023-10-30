@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 파리 퇴치
 
 import java.util.Scanner;

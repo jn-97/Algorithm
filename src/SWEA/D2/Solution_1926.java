@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 간단한 369게임
 
 import java.util.Scanner;

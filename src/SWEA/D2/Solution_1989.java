@@ -1,4 +1,4 @@
-package D2;
+package SWEA.D2;
 // 초심자의 회문 검사
 
 import java.util.Scanner;
