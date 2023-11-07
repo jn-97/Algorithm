@@ -15,7 +15,7 @@ public class Solution_17319 {
             char[] arr = S.toCharArray();
 
             Loop1:
-            if (S.length()%2 == 0) { // 문자열이 짝수일 때
+            if (S.length()%2 == 0) { // 문자열이 짝수
 
                 for (int i=0; i<N/2; i++) {
                     if (arr[i] != arr[i + (N/2)]) {
@@ -25,7 +25,7 @@ public class Solution_17319 {
                 }
                 System.out.println("#" + tc + " " + "Yes");
 
-            } else { // 문자열이 홀수일 때
+            } else { // 문자열이 홀수
                 System.out.println("#" + tc + " " + "No");
             }
         }
